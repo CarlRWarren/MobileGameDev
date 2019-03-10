@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4e05381bfcf4494da2f58efd7728651, type: 3}
+  m_Name: HardTarget
+  m_EditorClassIdentifier: 
+  score: 500
+  scale: 0.5
+  force: 7
+  material: {fileID: 2100000, guid: 63564701cc99d8a44b40cc2446a5c83f, type: 2}
+  audioClip: {fileID: 8300000, guid: f19ce79eaa61e454fb797889368e0b78, type: 3}
